@@ -1,0 +1,19 @@
+# Dataset folders
+faces/
+photos/
+videos/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# NumPy training files (optional)
+features.npy
+labels.npy
+people.npy
+
+# Trained model (optional)
+face_trained.yml
